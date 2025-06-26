@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --background-image-gradient-body: linear-gradient(to right, rgba(28,12,0,1), rgba(28,7,0,1), rgba(20,9,0,1), rgba(28,12,0,1));
+}
